@@ -1,0 +1,22 @@
+[
+    {
+        "role": "Community Assistant",
+        "organization": "Arizona State University",
+        "startDate": "August 2022",
+        "endDate": "Present",
+        "experience": [
+            "Actively engaged with residents to build a sense of belonging and community within the complex."
+        ],
+        "imageSrc": "asu.png"
+    },
+    {
+        "role": "Teaching Assistant",
+        "organization": "Arizona State University",
+        "startDate": "January 2024",
+        "endDate": "May 2024",
+        "experience": [
+            "Facilitate engaging classroom activities fostering an interactive learning environment for a class of 200 students."
+        ],
+        "imageSrc": "asu.png"
+    }
+]

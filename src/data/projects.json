@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Coffee App",
+        "imageSrc": "coffee.png",
+        "description": "Developed an iOS coffee app in Swift by implementing Yelp API to retrieve nearby coffee places by integrating MapKit and Firebase.",
+        "skills": [
+            "Swift"
+        ],
+        "demo": "",
+        "source": "https://github.com/mmehta29/"
+    },
+    {
+        "title": "Ecommerce website",
+        "imageSrc": "ecommerce.png",
+        "description": "Developed a feature-rich e-commerce platform for jewelry, focused on providing a seamless shopping experience.",
+        "skills": [
+            "Next js",
+            "React"
+        ],
+        "demo": "https://manya-jewelbox-website.vercel.app/",
+        "source": "https://github.com/mmehta29/"
+    },
+    {
+        "title": "Portfolio Website",
+        "imageSrc": "portfolio.png",
+        "description": "Developed a responsive and interactive personal portfolio website using React to showcase projects, skills and experience",
+        "skills": [
+            "React",
+            "Javascript"
+        ],
+        "demo": "https://manyamehta.netlify.app/",
+        "source": "https://github.com/mmehta29/"
+    },
+    {
+        "title": "Travel App",
+        "imageSrc": "travel.jpeg",
+        "description": "Developed an iOS App that provides user an option to find nearby places in the city user is travelling to using API and MapKit.",
+        "skills": [
+            "Swift"
+        ],
+        "demo": "",
+        "source": "https://github.com/mmehta29/"
+    }
+]
