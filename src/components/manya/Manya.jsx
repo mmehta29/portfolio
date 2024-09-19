@@ -8,9 +8,9 @@ export const Manya = () => {
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I am Manya!</h1>
                 <p className={styles.description}>I am a 4th year Computer Science Student at Arizona State University.</p>
-                <a href='https://drive.google.com/file/d/1YkUZvPMtGeTGV1Pa9L4VTGHFC7VNQjOx/view?usp=sharing' className={styles.contactBtn}>
+                <a href='https://drive.google.com/file/d/1gaZfXK_DlAW9rUGKmD1kDTHs2d4ErIVV/view?usp=sharing' className={styles.contactBtn}>
                     <img src={getImageUrl("paperclip3.png")} alt="paperclip4" className={styles.paperclipImg} />
-                    <span className={styles.resumeText}>Resume  </span>
+                    <span className={styles.resumeText}>Resume</span>
 
                 </a>
             </div>
