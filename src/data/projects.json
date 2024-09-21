@@ -25,8 +25,7 @@
         "imageSrc": "portfolio.png",
         "description": "Developed a responsive and interactive personal portfolio website using React to showcase projects, skills and experience",
         "skills": [
-            "React",
-            "Javascript"
+            "React"
         ],
         "demo": "https://manyamehta.netlify.app/",
         "source": "https://github.com/mmehta29/"
@@ -39,6 +38,16 @@
             "Swift"
         ],
         "demo": "",
+        "source": "https://github.com/mmehta29/"
+    },
+    {
+        "title": "Stock Market Dashboard",
+        "imageSrc": "stock.png",
+        "description": "Developed a stock market dashboard application that visualizes stock performance using interactive charts and real-time data.",
+        "skills": [
+            "React"
+        ],
+        "demo": "https://manya-stock-dash.vercel.app/",
         "source": "https://github.com/mmehta29/"
     }
 ]
