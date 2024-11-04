@@ -1,5 +1,16 @@
 [
     {
+        "title": "Blockify",
+        "imageSrc": "Blockify.png",
+        "description": "Developed a decentralized platform using Sui Blockchain to automate royalty payments for music artists, removing the need for intermediaries like record labels.",
+        "skills": [
+            "Blockchain",
+            "React"
+        ],
+        "demo": "",
+        "source": "https://github.com/mmehta29/"
+    },
+    {
         "title": "Coffee App",
         "imageSrc": "coffee.png",
         "description": "Developed an iOS coffee app in Swift by implementing Yelp API to retrieve nearby coffee places by integrating MapKit and Firebase.",
