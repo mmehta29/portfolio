@@ -14,7 +14,7 @@ export const Manya = () => {
 
                 </a>
             </div>
-            <img src={getImageUrl("manya1.png")} alt="hero image" className={styles.heroImg} />
+            <img src={getImageUrl("manya7.png")} alt="hero image" className={styles.heroImg} />
             <div className={styles.topBlur} />
             <div className={styles.bottomBlur} />
         </section>
